@@ -1,0 +1,40 @@
+/*
+* Source Han Sans SC http://typekit.com/fonts
+ */
+
+@font-face {
+    font-family: 'Source Han Sans SC';
+    font-style: normal;
+    font-weight: 100;
+    src: url('SourceHanSansSC-ExtraLight.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans SC';
+    font-style: normal;
+    font-weight: 300;
+    src: url('SourceHanSansSC-Normal.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url('SourceHanSansSC-Regular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans SC';
+    font-style: normal;
+    font-weight: 500;
+    src: url('SourceHanSansSC-Medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans SC';
+    font-style: normal;
+    font-weight: 700;
+    src: url('SourceHanSansSC-Bold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans SC';
+    font-style: normal;
+    font-weight: 900;
+    src: url('SourceHanSansSC-Heavy.otf') format('opentype');
+}

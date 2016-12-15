@@ -1,0 +1,40 @@
+/*
+* Source Han Sans TC http://typekit.com/fonts
+ */
+
+@font-face {
+    font-family: 'Source Han Sans TC';
+    font-style: normal;
+    font-weight: 100;
+    src: url('SourceHanSansTC-ExtraLight.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TC';
+    font-style: normal;
+    font-weight: 300;
+    src: url('SourceHanSansTC-Normal.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TC';
+    font-style: normal;
+    font-weight: 400;
+    src: url('SourceHanSansTC-Regular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TC';
+    font-style: normal;
+    font-weight: 500;
+    src: url('SourceHanSansTC-Medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TC';
+    font-style: normal;
+    font-weight: 700;
+    src: url('SourceHanSansTC-Bold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TC';
+    font-style: normal;
+    font-weight: 900;
+    src: url('SourceHanSansTC-Heavy.otf') format('opentype');
+}
