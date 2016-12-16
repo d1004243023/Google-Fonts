@@ -6,35 +6,35 @@
     font-family: 'Source Han Sans SC';
     font-style: normal;
     font-weight: 100;
-    src: url('SourceHanSansSC-ExtraLight.otf') format('opentype');
+    src: local('Source Han Sans SC ExtraLight'), local('SourceHanSansSC-ExtraLight'), local('Noto Sans CJK SC Thin'), local('NotoSansCJKsc-Thin'), local('Noto Sans SC Thin'), local('NotoSansSC-Thin'), local('Noto Sans S Chinese Thin'), local('NotoSansHant-Thin'), url(SourceHanSansSC-ExtraLight.otf) format('opentype');
 }
 @font-face {
     font-family: 'Source Han Sans SC';
     font-style: normal;
     font-weight: 300;
-    src: url('SourceHanSansSC-Normal.otf') format('opentype');
+    src: local('Source Han Sans SC Normal'), local('SourceHanSansSC-Normal'), local('Noto Sans CJK SC Light'), local('NotoSansCJKsc-Light'), local('Noto Sans SC Light'), local('NotoSansSC-Light'), local('Noto Sans S Chinese Light'), local('NotoSansHant-Light'), url(SourceHanSansSC-Normal.otf) format('opentype');
 }
 @font-face {
     font-family: 'Source Han Sans SC';
     font-style: normal;
     font-weight: 400;
-    src: url('SourceHanSansSC-Regular.otf') format('opentype');
+    src: local('Source Han Sans SC Regular'), local('SourceHanSansSC-Regular'), local('Noto Sans CJK SC Regular'), local('NotoSansCJKsc-Regular'), local('Noto Sans SC Regular'), local('NotoSansSC-Regular'), local('Noto Sans S Chinese Regular'), local('NotoSansHant-Regular'), url(SourceHanSansSC-Regular.otf) format('opentype');
 }
 @font-face {
     font-family: 'Source Han Sans SC';
     font-style: normal;
     font-weight: 500;
-    src: url('SourceHanSansSC-Medium.otf') format('opentype');
+    src: local('Source Han Sans SC Medium'), local('SourceHanSansSC-Medium'), local('Noto Sans CJK SC Medium'), local('NotoSansCJKsc-Medium'), local('Noto Sans SC Medium'), local('NotoSansSC-Medium'), local('Noto Sans S Chinese Medium'), local('NotoSansHant-Medium'), url(SourceHanSansSC-Medium.otf) format('opentype');
 }
 @font-face {
     font-family: 'Source Han Sans SC';
     font-style: normal;
     font-weight: 700;
-    src: url('SourceHanSansSC-Bold.otf') format('opentype');
+    src: local('Source Han Sans SC Bold'), local('SourceHanSansSC-Bold'), local('Noto Sans CJK SC Bold'), local('NotoSansCJKsc-Bold'), local('Noto Sans SC Bold'), local('NotoSansSC-Bold'), local('Noto Sans S Chinese Bold'), local('NotoSansHant-Bold'), url(SourceHanSansSC-Bold.otf) format('opentype');
 }
 @font-face {
     font-family: 'Source Han Sans SC';
     font-style: normal;
     font-weight: 900;
-    src: url('SourceHanSansSC-Heavy.otf') format('opentype');
+    src: local('Source Han Sans SC Heavy'), local('SourceHanSansSC-Heavy'), local('Noto Sans CJK SC Black'), local('NotoSansCJKsc-Black'), local('Noto Sans SC Black'), local('NotoSansSC-Black'), local('Noto Sans S Chinese Black'), local('NotoSansHant-Black'), url(SourceHanSansSC-Heavy.otf) format('opentype');
 }
