@@ -1,0 +1,40 @@
+/*
+* Source Han Sans KR http://typekit.com/fonts
+ */
+
+@font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Source Han Sans KR ExtraLight'), local('SourceHanSansKR-ExtraLight'), local('Noto Sans KR Thin'), local('NotoSansKR-Thin'), url(SourceHanSansKR-ExtraLight.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Source Han Sans KR Normal'), local('SourceHanSansKR-Normal'), local('Noto Sans KR Light'), local('NotoSansKR-Light'), url(SourceHanSansKR-Normal.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Source Han Sans KR Regular'), local('SourceHanSansKR-Regular'), local('Noto Sans KR Regular'), local('NotoSansKR-Regular'), url(SourceHanSansKR-Regular.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Source Han Sans KR Medium'), local('SourceHanSansKR-Medium'), local('Noto Sans KR Medium'), local('NotoSansKR-Medium'), url(SourceHanSansKR-Medium.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Source Han Sans KR Bold'), local('SourceHanSansKR-Bold'), local('Noto Sans KR Bold'), local('NotoSansKR-Bold'), url(SourceHanSansKR-Bold.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Source Han Sans KR Heavy'), local('SourceHanSansKR-Heavy'), local('Noto Sans KR Black'), local('NotoSansKR-Black'), url(SourceHanSansKR-Heavy.otf) format('opentype');
+}

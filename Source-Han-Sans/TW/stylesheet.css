@@ -1,0 +1,40 @@
+/*
+* Source Han Sans TW http://typekit.com/fonts
+ */
+
+@font-face {
+    font-family: 'Source Han Sans TW';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Source Han Sans TW ExtraLight'), local('SourceHanSansTW-ExtraLight'), local('Noto Sans TC Thin'), local('NotoSansTC-Thin'), local('Noto Sans T Chinese Thin'), local('NotoSansHant-Thin'), url(SourceHanSansTW-ExtraLight.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TW';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Source Han Sans TW Normal'), local('SourceHanSansTW-Normal'), local('Noto Sans TC Light'), local('NotoSansTC-Light'), local('Noto Sans T Chinese Light'), local('NotoSansHant-Light'), url(SourceHanSansTW-Normal.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TW';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Source Han Sans TW Regular'), local('SourceHanSansTW-Regular'), local('Noto Sans TC Regular'), local('NotoSansTC-Regular'), local('Noto Sans T Chinese Regular'), local('NotoSansHant-Regular'), url(SourceHanSansTW-Regular.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TW';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Source Han Sans TW Medium'), local('SourceHanSansTW-Medium'), local('Noto Sans TC Medium'), local('NotoSansTC-Medium'), local('Noto Sans T Chinese Medium'), local('NotoSansHant-Medium'), url(SourceHanSansTW-Medium.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TW';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Source Han Sans TW Bold'), local('SourceHanSansTW-Bold'), local('Noto Sans TC Bold'), local('NotoSansTC-Bold'), local('Noto Sans T Chinese Bold'), local('NotoSansHant-Bold'), url(SourceHanSansTW-Bold.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Source Han Sans TW';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Source Han Sans TW Heavy'), local('SourceHanSansTW-Heavy'), local('Noto Sans TC Black'), local('NotoSansTC-Black'), local('Noto Sans T Chinese Black'), local('NotoSansHant-Black'), url(SourceHanSansTW-Heavy.otf) format('opentype');
+}
